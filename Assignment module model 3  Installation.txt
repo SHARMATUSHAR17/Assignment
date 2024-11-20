@@ -1,0 +1,77 @@
+    Assignment module 2 : Installation and Maintenance of Hardware and Its 
+
+      Section 1: Multiple Choice 
+       
+         1. Which of the following precautions should be taken before working on
+computer hardware?
+         a) Ensure the computer is plugged in to prevent electrostatic discharge.
+ 
+        2. What is the purpose of thermal paste during CPU installation?
+
+        c) To improve thermal conductivity between the CPU and the heat sink.
+
+       3. Which tool is used to measure the output voltage of a power supply
+unit (PSU)?
+    
+       a) Multimeter
+
+      4. Which component is responsible for storing BIOS settings, such as date
+and time, even when the computer is powered off?
+
+      a) CMOS battery
+
+  Section 2: True or
+
+         5. True or False: When installing a new hard drive, it is essential to format it before use.
+
+           . True
+
+         6. True or False: A POST (Power-On Self-Test) error indicates a problem with the CPU.
+
+          .False
+
+        7. True or False: It is safe to remove a USB flash drive from a computer without ejecting it first.
+
+         .False
+  
+ Section 3: Short Answer
+
+         8. Describe the steps involved in installing a new graphics card in a
+desktop computer.
+
+           . Prepare Your Workspace , Open the Computer Case, Locate the PCIe Slot,  Prepare the Slot, Install the Graphics Card
+             Connect Power, Reassemble the Case, Power On the Computer,  Install Graphics Drivers, Test the Graphics Card.
+
+          
+           9. What is RAID, and what are some common RAID configurations?
+
+           . 
+
+
+Section 4: Practical Application
+
+        10. Demonstrate how to replace a CPU fan in a desktop computer.
+
+         . Turn Off the Computer and Disconnect Power, Open the Computer Case, Locate the CPU Cooler, Disconnect the CPU Fan Cable,  Remove the Old CPU Fan, Clean Off Old Thermal Paste, Apply New Thermal Paste,  Install the New CPU Fan,  Reconnect the CPU Fan Power Cable, Close the Computer Case, Reconnect Power and Test the System, Monitor Temperatures. 
+
+ Section 5: Essay
+
+         11. Discuss the importance of regular maintenance for computer hardware
+             and provide examples of maintenance tasks.
+
+           . Cleaning Dust and Debris, . Checking and Replacing the Thermal Paste, onitoring and Cleaning the Fans, Checking the Power Supply, Cable Management, Testing and Replacing the Hard Drive, Updating BIOS and Firmware, Inspecting and Replacing the CMOS Battery, . Checking RAM, Defragmenting Hard Drives, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
